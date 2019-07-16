@@ -1,0 +1,12 @@
+{
+  "name": "npm_packaging_demo",
+  "version": "1.0.0",
+  "description": "Demo for how to build a package and push into NPM repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ajeerkhan@gmail.com",
+  "license": "ISC"
+  
+}
